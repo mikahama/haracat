@@ -1,0 +1,1 @@
+prune haracat/models/*.pt
