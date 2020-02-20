@@ -4,7 +4,8 @@ hAraCat is a Python library for adding diacritics automatically to Medieval Arab
 
 # Install 😻
 
-pip install haracat
+    pip3 install haracat
+    python3 -m haracat.download
 
 # Use 🐱
 
