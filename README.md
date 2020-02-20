@@ -1,4 +1,5 @@
 # hAraCat 🐈
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3677375.svg)](https://doi.org/10.5281/zenodo.3677375)
 
 hAraCat is a Python library for adding diacritics automatically to Medieval Arabic text.
 
