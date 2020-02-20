@@ -10,6 +10,6 @@ todo
 Diacritics can be added as follows
 
     from haracat import diacritics_sentence
-    print(diacritics_sentence("الإجاج، مثلثة الأول: الستر.".split(" ")))
+    diacritics_sentence("الإجاج، مثلثة الأول: الستر.".split(" "))
     >> الْإِجاجُ، مُثَلَّثَةَ الْأَوَّلِ: السِّتْرُ.
 
