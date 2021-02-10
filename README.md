@@ -20,6 +20,15 @@ First the sentence is tokenized before the diacritics are predicted.
 
 # Credits
 
+    @misc{alnajjar2020automated,
+          title={Automated Prediction of Medieval Arabic Diacritics}, 
+          author={Khalid Alnajjar and Mika Hämäläinen and Niko Partanen and Jack Rueter},
+          year={2020},
+          eprint={2010.05269},
+          archivePrefix={arXiv},
+          primaryClass={cs.CL}
+    }
+
 Khalid Alnajjar, Mika Hämäläinen, Niko Partanen and Jack Rueter
 
 ## Need for NLP solutions for your business?
