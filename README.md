@@ -31,9 +31,3 @@ First the sentence is tokenized before the diacritics are predicted.
 
 Khalid Alnajjar, Mika Hämäläinen, Niko Partanen and Jack Rueter
 
-## Need for NLP solutions for your business?
-
-
-<img src="https://rootroo.com/cropped-logo-01-png/" alt="Rootroo logo" width="128px" height="128px">
-
-My company, [Rootroo offers consulting related to multilingual NLP tasks](https://rootroo.com/). We have a strong academic background in the state-of-the-art AI solutions for every NLP need. Just contact us, we won't bite.
